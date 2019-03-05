@@ -1,9 +1,5 @@
 # **Traffic Sign Recognition**
 
-## Writeup
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Build a Traffic Sign Recognition Project**
@@ -26,7 +22,7 @@ The goals / steps of this project are the following:
 [sample_image1]: ./sample_images/00001.jpg "Traffic Sign 1"
 [sample_image2]: ./sample_images/00002.jpg "Traffic Sign 2"
 [sample_image3]: ./sample_images/00003.jpg "Traffic Sign 3"
-[sample_image3]: ./sample_images/00004.jpg "Traffic Sign 4"
+[sample_image4]: ./sample_images/00004.jpg "Traffic Sign 4"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.
